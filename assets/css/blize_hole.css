@@ -1,0 +1,30 @@
+body, html{
+    background-color:#2980b9 !important;
+}
+
+a{
+    color: #2980b9 !important;
+}
+
+input-group .form-control:first-child, .input-group-addon:first-child, .input-group-btn:first-child>.btn, .input-group-btn:first-child>.btn-group>.btn, .input-group-btn:first-child>.dropdown-toggle, .input-group-btn:last-child>.btn-group:not(:last-child)>.btn, .input-group-btn:last-child>.btn:not(:last-child):not(.dropdown-toggle) {
+    background-color: #2980b9 !important;
+}
+input-group .form-control:last-child, .input-group-addon:last-child, .input-group-btn:first-child>.btn-group:not(:first-child)>.btn, .input-group-btn:first-child>.btn:not(:first-child), .input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group>.btn, .input-group-btn:last-child>.dropdown-toggle{
+    border: 1px solid #2980b9 !important;
+}
+
+.input-group-addon{
+    border: 1px solid #2980b9 !important;
+}
+
+.btn-primary{
+    background-color: #2980b9 !important;
+}
+
+.input-group .form-control:last-child, .input-group-addon:last-child, .input-group-btn:first-child>.btn-group:not(:first-child)>.btn, .input-group-btn:first-child>.btn:not(:first-child), .input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group>.btn, .input-group-btn:last-child>.dropdown-toggle{
+    border: 1px solid #2980b9 !important;
+}
+
+.btn-primary{
+    background-color: #2980b9 !important;
+}
